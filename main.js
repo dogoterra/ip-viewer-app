@@ -11,7 +11,7 @@ const createWindow = () => {
         icon: path.join(__dirname, 'assets/icon.png')
     });
     
-    win.loadURL('https://ip.doso.es/');
+    win.loadURL('https://viewer.sh/');
     win.setMenu(null);
 }
 
